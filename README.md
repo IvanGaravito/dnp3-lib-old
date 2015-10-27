@@ -1,5 +1,8 @@
 # dnp3-lib
 
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+[![Gratipay](https://img.shields.io/gratipay/IvanGaravito.svg)](https://gratipay.com/IvanGaravito)
+
 > A DNP 3.0 library for Node.js
 
 ## Introduction
