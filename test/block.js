@@ -1,3 +1,5 @@
+/* global before, describe, it */
+
 var assert = require('assert')
 
 describe('Block', function () {
