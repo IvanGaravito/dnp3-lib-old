@@ -48,7 +48,7 @@ describe('Block', function () {
 
     block = new Block(8)
     block.data('056405C0FD02BC02')
-    assert.equal(block.data(), '056405C0FD02')
+    assert.equal(block.data().toString('hex').toUpperCase(), '056405C0FD02BC02')
   })
 
   it('should reject load raw data not equal to dataSize + 2', function () {
